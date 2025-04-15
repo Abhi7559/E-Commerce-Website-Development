@@ -1,4 +1,5 @@
 # E-Commerce-Website-Development
+Check out the project here: [Live Demo] (https://spontaneous-sunflower-78b769.netlify.app/)
 Project Title: E-Commerce Website Development (HTML, CSS, JavaScript)
 
 Project Overview: I developed a fully responsive e-commerce website using HTML, CSS, and JavaScript as part of my internship at Tap Academy. The website provides a user-friendly interface for browsing and purchasing products, focusing on an intuitive shopping experience.
